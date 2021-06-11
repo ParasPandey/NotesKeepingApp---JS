@@ -5,7 +5,7 @@
 
 <h2> Project Details - Notes Keeping App </h2>
 
-<a href = "https://paraspandey.github.io/"> Project Link </a>
+<a href = "https://noteskeepingapp.netlify.app/"> Project Link </a>
 
 <p> Implemented HTML,CSS,JAVASCRIPT </p>
 <p> Feature </p>
